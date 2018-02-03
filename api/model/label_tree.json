@@ -1,0 +1,41 @@
+{
+  "code": "10000",
+  "msg": "success",
+  "data": {
+    "record": {
+      "children": [
+        {
+          "name": "\u6211\u7684",
+          "label": 2,
+          "children": [
+            {
+              "name": "\u6211\u7684\u6a21\u578b",
+              "label": 6,
+              "children": []
+            },
+            {
+              "name": "\u6536\u85cf\u6a21\u578b",
+              "label": 7,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "\u5185\u90e8\u5171\u4eab",
+          "label": 3,
+          "children": []
+        },
+        {
+          "name": "\u7cbe\u54c1",
+          "label": 4,
+          "children": []
+        },
+        {
+          "name": "\u901a\u7528",
+          "label": 5,
+          "children": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />-->
+    <link rel="stylesheet" type="text/css" href="libs/layer/skin/layer.css"/>
+    <link rel="stylesheet" type="text/css" href="css/common/admin.css" />
+    <link rel="stylesheet" type="text/css" href="css/common/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="css/common/main.css" />
+    <link rel="stylesheet" type="text/css" href="libs/dataTables/dataTables.bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="css/common/buttons.css"/>
+    <link rel="stylesheet" type="text/css" href="css/item_list/modellist.css"/>
+    <link rel="stylesheet" type="text/css" href="css/common/bootstrap-switch.css"/>
+</head>
+<body>
+<div>
+    <button class="btn_edit_model">open popup</button>
+</div>
+<div id="model-popup" style="display: none;">
+    <div class="models">
+        <div class="right">
+            <div>
+                <button class="model_label">datatable</button>
+            </div>
+            <div class="model-list right-model">
+                <table id="example" class="display" cellspacing="0" width="100%">
+                    <thead>
+                    <tr>
+                        <th>Preview</th>
+                        <th>Name</th>
+                        <th>Size</th>
+                        <th>Operation</th>
+                    </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>-->
+<script>
+    window.g_config = {
+        disableRightPop: true, //是否禁用右边栏
+        debug:false,
+    };
+    var require = {
+        urlArgs: 'v=0063v53.2' // 修改这里的版本号
+    };
+
+</script>
+<script data-main="js/item_list/item_list.js" src="libs/require.js"></script>
+<script >
+
+</script>
+</body>
+</html>

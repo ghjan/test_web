@@ -1,0 +1,167 @@
+@charset "UTF-8";
+
+#page-wrapper {
+	background: #fff !important
+}
+
+.dataTables_filter {
+	text-align: right
+}
+
+.dataTable th,.dataTable td {
+	text-align: center
+}
+
+.models {
+	padding: 0 20px 20px;
+	overflow: hidden
+}
+
+.models h4 {
+	font-size: 16px;
+	padding-left: 6px;
+	display: inline-block
+}
+
+.models h4 span {
+	color: #4cc35d
+}
+
+.models .model-list {
+	border: 1px solid #ededed
+}
+
+.models .model-list .title {
+	height: 40px;
+	line-height: 40px;
+	border-bottom: 1px solid #ededed
+}
+
+.models .model-list>ul {
+	height: 430px;
+	margin-top: 10px
+}
+
+.models .model-list .lists {
+	padding-bottom: 26px
+}
+
+.models .model-list .lists li {
+	margin-bottom: 10px
+}
+
+.models .model-list .lists span {
+	text-align: center;
+	display: inline-block
+}
+
+.models .model-list .lists img {
+	width: 68px;
+	height: 68px
+}
+
+.models .model-list .lists .preview-img {
+	width: 103px
+}
+
+.models .model-list .lists .model-name {
+	width: 150px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap
+}
+
+.models .model-list .lists>.model-name {
+	overflow: inherit
+}
+
+.models .model-list .lists .operate {
+	width: 84px;
+	display: inline-block;
+	text-align: center
+}
+
+.models .model-list .lists .operate span {
+	height: 22px;
+	line-height: 10px
+}
+
+.models .model-list .lists .operate .selected {
+	color: #969696
+}
+
+.models .left {
+	float: left;
+	width: 348px
+}
+
+.models .right {
+	float: right;
+	position: relative;
+	width: 500px
+}
+
+.models .right :-ms-input-placeholder {
+	color: #a9a9a9
+}
+
+.models .right .model-list .lists .model-name {
+	width: 296px;
+	padding-right: 26px
+}
+
+.models .right .search {
+	float: right;
+	margin-top: 5px;
+	width: 194px;
+	height: 26px;
+	line-height: 26px;
+	line-height: 1\9;
+	border-radius: 4px;
+	padding: 0 4px;
+	position: absolute;
+	top: 0px;
+	right: 0px
+}
+
+.models .right .search-btn {
+	position: absolute;
+	right: 16px;
+	top: 10px;
+	cursor: pointer
+}
+
+.models .right .stock {
+	background: #f0f0f0;
+	cursor: pointer;
+	display: inline-block;
+	padding: 7px 20px;
+	font-size: 14px;
+	float: left;
+	margin-left: 1px;
+	margin-bottom: 2px
+}
+
+.models .right .active {
+	background: #4cc25c;
+	color: #fff
+}
+
+#pagination {
+	width: 100%;
+	height: 22px;
+	text-align: center;
+	position: absolute;
+	bottom: 24px
+}
+
+#pagination .pagination {
+	margin-top: 0
+}
+
+#pagination .pagination>li>a {
+	height: 22px;
+	padding: 4px 6px;
+	line-height: 1;
+	font-size: 14px
+}

@@ -1,0 +1,73 @@
+{
+  "code": "10000",
+  "msg": "success",
+  "recordsTotal": 5,
+  "recordsFiltered": 5,
+  "data": [
+    {
+      "preview_url": "http://img.fuwo.com/ifuwo/1702/27/78934120fcbc11e6af0100163e1284d1.jpg",
+      "product_name": "\u5317\u7f8e\u67ab\u60c5 \u5b9e\u6728\u590d\u5408\u5730\u677f \u591a\u5c42\u5730\u6696\u5b9e\u6728\u6728\u5730\u677f12MM \u975e\u6d32\u5927\u7f8e\u6728\u8c46",
+      "is_move": 0,
+      "is_replace": 0,
+      "design_no": "569c2350ce593cfb51da20bb73e47f2f",
+      "position": "rooms",
+      "item_no": "2a6337bc044811e5be4900163e0206cd",
+      "room_name": "05a147b3be55b433618620bb73cfc34c",
+      "room_type": 2,
+      "item_name": "",
+      "funcName": "\u4e3b\u5367"
+    },
+    {
+      "preview_url": "http://img.fuwo.com/ifuwo/1708/08/dc6210227bf711e7aa5100163e1284d1.jpg",
+      "product_name": "\u591a\u4e50\u58eb\u4e73\u80f6\u6f06\u5957\u88c5\u8d85\u6613\u6d17\u65e0\u6dfb\u52a0\u767d\u8272\u5185\u5899\u6f06 \u6d82\u6599\u6df1\u8272\u57fa\u7840\u6f0615L\u6b63\u54c1",
+      "is_move": 0,
+      "is_replace": 0,
+      "design_no": "569c2350ce593cfb51da20bb73e47f2f",
+      "position": "walls",
+      "item_no": "b24209ded48411e19421782bcb748630",
+      "room_name": "05a147b3be55b433618620bb73cfc34c",
+      "room_type": 2,
+      "item_name": "dbe718262e922e33bc1c20bb73cf10e4",
+      "funcName": "\u4e3b\u5367"
+    },
+    {
+      "preview_url": "http://img.fuwo.com/ifuwo/1705/10/330463ca355e11e7befa00163e10fd78.jpg",
+      "product_name": "\u5b9c\u534e \u7235\u8303 PB625 \u65b9\u51e0 ",
+      "is_move": 0,
+      "is_replace": 0,
+      "design_no": "569c2350ce593cfb51da20bb73e47f2f",
+      "position": "models",
+      "item_no": "8f835a04418411e5b7e200163e0018da",
+      "room_name": "",
+      "room_type": 99,
+      "item_name": "61b4138c48eadf6dc5406083b2a672dd",
+      "funcName": "\u672a\u77e5"
+    },
+    {
+      "preview_url": "http://img.fuwo.com/ifuwo/1610/21/d582149a978811e69e2900163e0158f4.jpg",
+      "product_name": "\u97e9\u5f0f\u7530\u56ed\u4e09\u95e8\u8863\u67dc818",
+      "is_move": 0,
+      "is_replace": 0,
+      "design_no": "569c2350ce593cfb51da20bb73e47f2f",
+      "position": "models",
+      "item_no": "5747e7f4ccf511e38a3700163e020236",
+      "room_name": "",
+      "room_type": 99,
+      "item_name": "e9f68d0540924628e736e8852176dd99",
+      "funcName": "\u672a\u77e5"
+    },
+    {
+      "preview_url": "http://img.fuwo.com/ifuwo/1610/22/c06ee0d297a711e6877a00163e0158f4.jpg",
+      "product_name": "\u62c9\u83f2\u66fc\u5c3c \u7f8e\u5f0f\u63a8\u62c9\u95e8\u5927\u8863\u67dc \u8d9f\u95e8\u8863\u6a71 \u79fb\u95e8\u5168\u5b9e\u6728\u8863\u67dc\u80e1\u6843\u6728JE005",
+      "is_move": 0,
+      "is_replace": 0,
+      "design_no": "569c2350ce593cfb51da20bb73e47f2f",
+      "position": "models",
+      "item_no": "d913a538ca2011e4ad8600163e021b4a",
+      "room_name": "",
+      "room_type": 99,
+      "item_name": "d2fc833e42cfaafb27bb5f88c705516e",
+      "funcName": "\u672a\u77e5"
+    }
+  ]
+}
